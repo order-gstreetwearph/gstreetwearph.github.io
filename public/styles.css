@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .product {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label, input, button {
+    margin: 5px 0;
+  }
+  
